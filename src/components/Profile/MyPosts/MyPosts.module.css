@@ -1,0 +1,17 @@
+
+.item{
+    color: greenyellow;
+}
+.item img {
+  width: 50px;
+}
+button {
+  border: none;
+  background-color: black;
+  color: white;
+  height: 20px;
+  margin: 5px;
+}
+.postsBlock{
+  padding: 10px;
+}
