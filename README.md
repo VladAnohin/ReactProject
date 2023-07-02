@@ -1,6 +1,6 @@
 ```JavaScript
 const k = () => {
-    return 'Хуй';
+    return 'Мой первый проект';
 }
 console.log(k);
 ``` 
