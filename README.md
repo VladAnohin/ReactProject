@@ -8,7 +8,7 @@ npm i react-router-dom
 
 to install scripts for this project.
 
-1. Write
+2. Write
 
 ```
 npm start
