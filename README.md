@@ -1,4 +1,1 @@
-```HTML
-    <img src='https://leehyungi0622.github.io/images/post_images/210124_github.jpg'>
-
-```
+![alt text](https://i2.wp.com/miro.medium.com/1*yhbpbNSvAdU0rmLR1ZWPFg.png);
