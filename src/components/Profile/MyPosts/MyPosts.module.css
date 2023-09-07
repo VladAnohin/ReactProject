@@ -1,17 +1,19 @@
-
-.item{
-    color: greenyellow;
+.item {
+	color: greenyellow;
 }
 .item img {
-  width: 50px;
+	width: 50px;
 }
 button {
-  border: none;
-  background-color: black;
-  color: white;
-  height: 20px;
-  margin: 5px;
+	border: none;
+	background-color: black;
+	color: white;
+	height: 20px;
+	margin: 5px;
 }
-.postsBlock{
-  padding: 10px;
+.postsBlock {
+	padding: 10px;
+}
+button:focus {
+	background-color: grey;
 }

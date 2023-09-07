@@ -9,7 +9,6 @@ let store = {
 				{ id: 1, likeCount: 5, message: "qweqwe" },
 				{ id: 2, message: "q", likeCount: 15 },
 			],
-			newPostText: "",
 		},
 		messagesPage: {
 			dialogsData: [
@@ -52,4 +51,4 @@ let store = {
 };
 
 export default store;
-window.store = store;
+window.Storage = store;
