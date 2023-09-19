@@ -23,3 +23,5 @@ npm start
 ```
 
 to launch this project
+
+![React]('https://gitlab.com/uploads/-/system/project/avatar/33045377/2507930-middle.png')
