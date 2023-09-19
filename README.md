@@ -24,4 +24,4 @@ npm start
 
 to launch this project
 
-![React]('https://img4.goodfon.ru/original/1080x960/5/a5/react-framework-logo.jpg')
+![React](https://img4.goodfon.ru/original/1080x960/5/a5/react-framework-logo.jpg)
